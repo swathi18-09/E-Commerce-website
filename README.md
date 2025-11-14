@@ -58,6 +58,10 @@ JavaScript
 Bootstrap (if included in template)
 
 Font Awesome for icons
+![WhatsApp Image 2025-11-14 at 19 28 37_6bf2359f](https://github.com/user-attachments/assets/35bc3b65-fc2e-4b79-9b79-93e9fd07e986)
+![Uploading WhatsApp Image 2025-11-14 at 19.29.01_c8b18629.jpg…]()
+
+
 📄 Credits
 
 This template is provided by TemplateMo under their free-to-use license.
