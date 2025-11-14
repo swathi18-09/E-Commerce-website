@@ -59,7 +59,11 @@ Bootstrap (if included in template)
 
 Font Awesome for icons
 ![WhatsApp Image 2025-11-14 at 19 28 37_6bf2359f](https://github.com/user-attachments/assets/35bc3b65-fc2e-4b79-9b79-93e9fd07e986)
-![Uploading WhatsApp Image 2025-11-14 at 19.29.01_c8b18629.jpg…]()
+![WhatsApp Image 2025-11-14 at 19 29 01_f37f7ced](https://github.com/user-attachments/assets/5fdbbee1-5d0b-407a-ae2f-32bdaebbf1ba)
+![WhatsApp Image 2025-11-14 at 19 29 29_7c457e2d](https://github.com/user-attachments/assets/67579145-2866-464f-b01e-bfe7fa5cf5d2)
+
+![WhatsApp Image 2025-11-14 at 19 29 17_92b525ba](https://github.com/user-attachments/assets/8f1b785d-e407-4542-ac3c-d9824a486cca)
+
 
 
 📄 Credits
